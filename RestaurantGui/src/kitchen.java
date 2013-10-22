@@ -32,6 +32,7 @@ import javax.swing.JLabel;
 import javax.swing.JSeparator;
 
 //import RPSGui.buttonListener;
+//I added some notes here for testing purposes
 
 import java.awt.GridLayout;
 
