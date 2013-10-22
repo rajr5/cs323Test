@@ -39,6 +39,8 @@ import java.awt.GridLayout;
 
 public class kitchen extends JFrame 
 {
+	
+	private int testInt = 5;
 	private JTabbedPane kitchen;
 	private JPanel panel_3;
 	public kitchen()
